@@ -28,3 +28,7 @@ func  main()  {
 
 }
 ``` 
+
+## Running Test
+
+Run `go test -run ''` to see all logs outputs
